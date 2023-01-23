@@ -55,7 +55,7 @@
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="images/1200px-NumPy_logo_2020.svg.png">
       </td>
     </tr>
     <tr valign="top">
@@ -83,10 +83,6 @@
       <td width="25%" align="center">
         <span>Apache Spark</span><br><br>
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Power BI</span><br><br>
-        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
       <td width="25%" align="center">
         <span>Flask</span><br><br>
