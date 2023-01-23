@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="25%" align="center" bgcolor="rgb(0,0,0)">
         <span>AWS</span><br><br>
         <img height="64px" src="images/aws.png">
       </td>
