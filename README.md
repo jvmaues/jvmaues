@@ -93,10 +93,10 @@
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
     </tr>
-    <tr valign="top" bgcolor="rgb(0,0,0)">
-      <td width="25%" align="center" bgcolor="rgb(0,0,0)">
+    <tr valign="top" bgcolor=">
+      <td width="25%" align="center"">
         <span>AWS</span><br><br>
-        <img height="64px" src="images/aws.png">
+        <img height="70px" src="images/aws.png">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
