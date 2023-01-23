@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Vitor </h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h3 align="center">I am passionate about computing, data and programming&#127470;&#127475</h3>
 
-<p align="left"> <img src="" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="">
 </a>
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
 
 - 🤝 I’m available for freelancing.
 
@@ -21,7 +17,7 @@
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **jvmaues@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -120,8 +116,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Heroku</span><br><br>
-        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+        <span>AWS</span><br><br>
+        <img height="64px" src="">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
