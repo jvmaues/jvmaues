@@ -86,7 +86,7 @@
       </td>
       <td width="25%" align="center">
         <span>Flask</span><br><br>
-        <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
+        <img height="64px" src="images/logo-teal.png">
       </td>
       <td width="25%" align="center"">
         <span>AWS</span><br><br>
