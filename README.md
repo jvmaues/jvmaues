@@ -85,7 +85,7 @@
         <img height="64px" src="https://spark.apache.org/images/spark-logo-trademark.png">
       </td>
       <td width="25%" align="center">
-        <span>Flask</span><br><br>
+        <span>FastAPI</span><br><br>
         <img height="64px" src="images/logo-teal.png">
       </td>
       <td width="25%" align="center"">
