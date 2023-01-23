@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor </h1>
-<h3 align="center">I am passionate about computing, data and programming&#127470;&#127475</h3>
+<h3 align="center">I am passionate about computing, data and programming:brazil:</h3>
 
 <p align="left"> <img src="" alt="" /> </p>
 
