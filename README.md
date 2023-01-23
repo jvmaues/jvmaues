@@ -96,7 +96,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>AWS</span><br><br>
-        <img height="64px" src="">
+        <img height="64px" src="images/aws.png">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
@@ -117,15 +117,9 @@
  <a href="https://www.linkedin.com/in/jorge-barros-89b768175/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/jorge.barros.35/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
+
  <a href="https://medium.com/@jorgebarrosmedeiros" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
   <br/>
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
