@@ -20,8 +20,11 @@
 - 📫 How to reach me **jvmaues@gmail.com**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
-<br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- ### Blogs posts
 
