@@ -118,8 +118,9 @@
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
 
- <a href="https://medium.com/@jorgebarrosmedeiros" target="blank">
+<!--  <a href="https://medium.com/@jorgebarrosmedeiros" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
+ </a> -->
+                                                                                                                        
   <br/>
   <br/>
