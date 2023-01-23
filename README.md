@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="" alt="" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="">
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning  <a href="" target="blank"></a>
 
-<!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
+<!-- - 📝 I regularly write articles on [link) -->
 
 - 💬 Ask me about **Python**
 
@@ -23,16 +23,15 @@
 <br/>
 
 
-### Blogs posts
+<!-- ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+<!-- - [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
 - [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ## Skills
 
