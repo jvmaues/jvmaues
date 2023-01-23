@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
-<a target="_blank" align="center">
+<!-- <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="">
-</a>
+</a> -->
 
 - 🤝 I’m available for freelancing.
 
