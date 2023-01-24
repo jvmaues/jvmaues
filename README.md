@@ -9,6 +9,9 @@
   <img align="right" top="500" height="300" width="400" alt="image" src="images/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.webp">
 </a> 
 
+<br/>
+<br/>
+
 - :computer: I’m Computer Science Student.
 
 - 🤝 I’m available for freelancing.
