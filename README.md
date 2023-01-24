@@ -46,6 +46,14 @@
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
 <!-- BLOG-POST-LIST:END -->
 
+## Data Engineering Projects:
+
+## Data Science Projects:
+
+### [Netflix Dataset | Recommendation System](https://github.com/jvmaues/netflix-system-recomendation.git)
+  * This repository will show you how to create a Netflix recommendation system using Python for study and knowledge improvement purposes.
+  * Repository: https://github.com/jvmaues/netflix-system-recomendation.git
+
 
 ## Skills
 
