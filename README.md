@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-**Analytical Tools:**
+## Analytical Tools
 
 * **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server.
 * **Data Processing and Analysis:** Python.
