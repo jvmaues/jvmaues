@@ -10,7 +10,6 @@
 </a> 
 
 <br/>
-<br/>
 
 - :computer: I’m Computer Science Student.
 
