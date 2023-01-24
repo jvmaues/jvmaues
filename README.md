@@ -6,7 +6,7 @@
 <p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="400" alt="image" src="images/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.webp">
+  <img align="right" top="400" height="300" width="400" alt="image" src="images/young-man-programmer-working-computer-with-code-screen-student-programming-vector-concept_53562-4999.webp">
 </a> 
 
 - 🤝 I’m available for freelancing.
