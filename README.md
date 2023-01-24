@@ -28,6 +28,15 @@
 <br/>
 <br/>
 
+**Analytical Tools:**
+
+* **Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server.
+* **Data Processing and Analysis:** Python.
+* **Development:** Git, Lean Analytics, Linux and Docker.
+* **Data Vizualization:** Google Data Studio, Matplotlib, Plotly, Seaborn and Tableau.
+* **Machine Learning Modeling:** Classification, Regression, Clustering and Time Series.
+* **Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )
+
 <!-- ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
